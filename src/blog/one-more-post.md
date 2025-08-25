@@ -26,6 +26,11 @@ And, it works!
 
 We also want to add an image in the post that was uploaded separately into the `/src/assets/blog` folder.
 Inserting it in here is easy. Here it goes.
-![beautiful fiery lotus](../assets/blog/Bliss-author-avatars-t200x200.jpg)
+![beautiful fiery lotus](../../assets/blog/Bliss-author-avatars-t200x200.jpg)
+
+```
+We traversed one level up to exit the folder for the post, another level up
+to exit the folder "blog", and then traversed down to /assets/
+```
 
 
