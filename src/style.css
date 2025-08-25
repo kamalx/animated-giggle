@@ -163,7 +163,7 @@ section,
 }
 
 .container--narrow {
-  max-width: 65rem;
+  max-width: 55rem;
 }
 
 .flex-group {
@@ -387,6 +387,14 @@ section,
 }
 
 /* additional styles added by Kamal */
+p {
+  margin: 0.8em 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 1.1em 0;
+}
+
 table {
   border-collapse: collapse;
   width: 100%;
