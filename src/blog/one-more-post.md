@@ -23,3 +23,9 @@ How about adding an image straight from the github UI to see if that works. This
 ![pupper](https://github.com/user-attachments/assets/58b7a722-6a8d-4c9a-9900-6d786d6f59de)
 
 And, it works!
+
+We also want to add an image in the post that was uploaded separately into the `/src/assets/blog` folder.
+Inserting it in here is easy. Here it goes.
+![beautiful fiery lotus](../assets/blog/Bliss-author-avatars-t200x200.jpg)
+
+
