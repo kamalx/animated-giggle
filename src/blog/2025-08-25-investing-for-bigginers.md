@@ -1,5 +1,6 @@
 ---
 title: Investing for Beginners - a no stress guide
+author: Me No Hermit
 tags: ["post", "money", "investing"]
 categories: ["money"]
 image: /assets/blog/article-1.jpg
