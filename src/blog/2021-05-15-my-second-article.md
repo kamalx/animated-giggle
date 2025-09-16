@@ -1,11 +1,11 @@
 ---
-title: My Second Article
-author: Kevin Powell
+title: Haritha's First Article
+author: Haritha R S
 date: 2021-05-15
-tags: ["post", "featured"]
+tags: ["post", "featured", "Financial Planning"]
 image: /assets/blog/article-2.jpg
 imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+description: This is a test blog on financial planning. This consists of 3 steps.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa placerat duis ultricies lacus sed turpis tincidunt id. Sit amet nulla facilisi morbi tempus iaculis urna id volutpat. Erat nam at lectus urna duis convallis convallis. Purus faucibus ornare suspendisse sed nisi. Mauris rhoncus aenean vel elit. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Tellus rutrum tellus pellentesque eu tincidunt tortor. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Eu mi bibendum neque egestas congue quisque.
@@ -15,5 +15,6 @@ Nec ultrices dui sapien eget mi proin sed libero enim. Vestibulum mattis ullamco
 Ac auctor augue mauris augue neque. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Tellus in hac habitasse platea dictumst vestibulum rhoncus est. Pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Arcu ac tortor dignissim convallis aenean. Dolor magna eget est lorem ipsum dolor sit amet consectetur. Porttitor eget dolor morbi non. Quis lectus nulla at volutpat diam ut venenatis tellus. Ultricies leo integer malesuada nunc vel risus. Facilisis sed odio morbi quis commodo odio aenean.
 
 Commodo ullamcorper a lacus vestibulum sed arcu non odio euismod. Sit amet cursus sit amet dictum sit amet justo. Euismod lacinia at quis risus sed vulputate odio ut. Malesuada pellentesque elit eget gravida. Diam donec adipiscing tristique risus nec. Eu nisl nunc mi ipsum faucibus vitae aliquet nec. Risus at ultrices mi tempus imperdiet nulla malesuada pellentesque. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin. Nibh ipsum consequat nisl vel. Sit amet consectetur adipiscing elit. Porta nibh venenatis cras sed felis eget. A condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Orci phasellus egestas tellus rutrum. Ac felis donec et odio pellentesque diam volutpat commodo sed. Viverra nam libero justo laoreet sit amet cursus sit amet. Duis at consectetur lorem donec massa sapien faucibus. Et leo duis ut diam quam nulla porttitor massa. Eros donec ac odio tempor. Massa ultricies mi quis hendrerit. Semper quis lectus nulla at volutpat diam ut venenatis.
+
 
 Urna condimentum mattis pellentesque id nibh tortor id aliquet. Mollis nunc sed id semper risus in. Morbi blandit cursus risus at ultrices mi. Lectus vestibulum mattis ullamcorper velit. Facilisis mauris sit amet massa vitae tortor. Ullamcorper sit amet risus nullam. Nunc sed blandit libero volutpat sed. Ut tortor pretium viverra suspendisse potenti nullam ac tortor. Convallis convallis tellus id interdum velit laoreet id. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Non nisi est sit amet facilisis magna etiam tempor. Nisl nunc mi ipsum faucibus vitae.
