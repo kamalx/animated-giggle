@@ -8,7 +8,7 @@ description: podcast comment summarising the discussion; matters of the heart as
 
 Based on Dr. Jamnadas's comprehensive discussion, here's a practical action plan for cardiovascular health:
 
-`Summarised by YT user @pacha1330`
+`Summarised by YT user` [`@pacha1330`](https://youtube.com/@pacha1330)
 
 ---
 
