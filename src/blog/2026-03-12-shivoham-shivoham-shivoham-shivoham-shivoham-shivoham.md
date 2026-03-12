@@ -7,6 +7,8 @@ description: Om Namah Shivay Om Namah Shivay Om Namah Shivay Om Namah Shivay Om
 tags:
   - news
   - pagescms
+image: /assets/blog/article-3.jpg
+imageAlt: We added the above image a while later.
 ---
 ![](/assets/blog/Yin-Yang.jpg)
 
