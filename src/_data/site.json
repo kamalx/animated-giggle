@@ -1,4 +1,5 @@
 {
-  "name": "The animated giggle",
-  "description": "Just a test blog to play with web things"
+  "title": "Kamal's 11ty Playground",
+  "description": "Just a test blog to play with web things",
+  "url": "https://a-digital-giggle.netlify.app/"
 }
