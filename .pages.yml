@@ -29,6 +29,12 @@ content:
           creatable: true
           multiple: true
           values: [ featured, news ]
+      - name: image
+        label: Feature Image
+        type: image
+      - name: imageAlt
+        label: Image Caption
+        type: string
       - name: body
         label: Body
         type: rich-text
