@@ -7,9 +7,7 @@ tags:
   - heart
   - health
 image: /assets/blog/freestocks-Y9mWkERHYCU-unsplash.jpg
-imageAlt: Photo by <a href="https://unsplash.com/@freestocks">freestocks</a> on
-  <a
-  href="https://unsplash.com/photos/heart-bokeh-light-Y9mWkERHYCU">Unsplash</a>
+imageAlt: Photo by @freestocks on Unsplash — https://unsplash.com/@freestocks
 ---
 # The Action Plan — Summary
 
