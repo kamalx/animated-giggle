@@ -4,6 +4,7 @@ title: DOAC podcast summary- Dr Pradip Jamnadas MD
 description: podcast comment summarising the discussion; matters of the heart as
   explained by a cardiac surgeon on Diary of A CEO podcast
 tags:
+  - featured
   - heart
   - health
 image: /assets/blog/freestocks-Y9mWkERHYCU-unsplash.jpg
